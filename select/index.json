@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アイ・ウォント・イット・ザット・ウェイ",
+  "base_artist": "Backstreet Boys",
+  "createdAt": "2025-12-26T02:38:54.828252Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I Want It That Way",
+      "artist": "Backstreet Boys",
+      "has_synced": false,
+      "path": "select/pl_01_I_Want_It_That_Way_Backstreet_Boys.txt"
+    }
+  ]
+}
